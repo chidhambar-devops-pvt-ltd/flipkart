@@ -1,2 +1,3 @@
 This java class contains the DB related code...
 the logic has veen updated
+lets check the push command now after updating deploy.sh in remote repo
